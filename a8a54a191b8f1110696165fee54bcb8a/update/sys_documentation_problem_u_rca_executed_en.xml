@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_rca_executed" label="RCA分析実施済み" language="en" table="problem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_rca_executed</element>
+            <help/>
+            <hint/>
+            <label>RCA分析実施済み</label>
+            <language>en</language>
+            <name>problem</name>
+            <plural>RCA分析実施済みs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 02:18:31</sys_created_on>
+            <sys_id>fc2a8a111bcf1110696165fee54bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RCA分析実施済み</sys_name>
+            <sys_package display_value="問題の更新" source="a8a54a191b8f1110696165fee54bcb8a">a8a54a191b8f1110696165fee54bcb8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="問題の更新">a8a54a191b8f1110696165fee54bcb8a</sys_scope>
+            <sys_update_name>sys_documentation_problem_u_rca_executed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-08 02:18:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

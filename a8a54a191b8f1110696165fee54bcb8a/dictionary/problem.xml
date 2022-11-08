@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="問題" max_length="40" name="problem" sizeclass="1084" text_index="true" type="collection">
+        <element label="RCA分析実施済み" max_length="40" name="u_rca_executed" type="boolean"/>
+    </element>
+</database>
