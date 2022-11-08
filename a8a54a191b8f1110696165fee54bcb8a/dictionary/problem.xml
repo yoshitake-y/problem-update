@@ -6,6 +6,7 @@
                 <element inactive_on_update="false" label="FixPack 1.1" language="ja" sequence="200" value="fp_1.1"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="解決日付 01" max_length="40" name="u_resolution_date_01" type="glide_date"/>
         <element label="RCA分析実施済み" max_length="40" name="u_rca_executed" type="boolean"/>
     </element>
 </database>

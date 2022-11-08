@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_resolution_date_01" label="解決日付 01" language="ja" table="problem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_resolution_date_01</element>
+            <help/>
+            <hint/>
+            <label>解決日付 01</label>
+            <language>ja</language>
+            <name>problem</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 08:52:25</sys_created_on>
+            <sys_id>b64423dd1bc75110696165fee54bcbee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>解決日付 01</sys_name>
+            <sys_package display_value="問題の更新" source="a8a54a191b8f1110696165fee54bcb8a">a8a54a191b8f1110696165fee54bcb8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="問題の更新">a8a54a191b8f1110696165fee54bcb8a</sys_scope>
+            <sys_update_name>sys_documentation_problem_u_resolution_date_01_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-08 08:52:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
