@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>問題の更新</description>
+        <device_type>browser</device_type>
+        <hint>問題の更新</hint>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-08 01:59:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6fd546191b8f1110696165fee54bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>問題の更新</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="問題の更新" source="a8a54a191b8f1110696165fee54bcb8a">a8a54a191b8f1110696165fee54bcb8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="問題の更新">a8a54a191b8f1110696165fee54bcb8a</sys_scope>
+        <sys_update_name>sys_app_application_6fd546191b8f1110696165fee54bcb01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-08 01:59:52</sys_updated_on>
+        <title>問題の更新</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
