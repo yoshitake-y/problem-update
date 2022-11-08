@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="live_feed=true" audit="true" defaultsort="-1" extends="task" label="問題" max_length="40" name="problem" sizeclass="1084" text_index="true" type="collection">
+        <element choice="1" label="修正予定リリース" max_length="40" name="u_fix_schedule_release" type="string">
+            <choice>
+                <element inactive_on_update="false" label="FixPack 1.0" language="ja" sequence="100" value="fp_1.0"/>
+                <element inactive_on_update="false" label="FixPack 1.1" language="ja" sequence="200" value="fp_1.1"/>
+            </choice>
+        </element>
         <element label="RCA分析実施済み" max_length="40" name="u_rca_executed" type="boolean"/>
     </element>
 </database>
